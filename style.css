@@ -3,6 +3,7 @@ body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
+    width: 100%;
 }
 
 
@@ -33,7 +34,13 @@ footer {
     padding: 10px;
     background-color: #043f43;
     color: white;
-    position: fixed;
-    width: 100%;
     bottom: 0;
+}
+
+.mainPhoto {
+    max-height: 20vh;
+}
+
+#cat {
+    text-align: center;
 }
