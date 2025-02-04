@@ -49,3 +49,6 @@ footer {
     text-decoration: none;
 }
 
+.indent {
+    padding-left: 8px;
+}
